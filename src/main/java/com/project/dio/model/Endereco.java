@@ -1,4 +1,4 @@
-package java.project.dio.model;
+package com.project.dio.model;
 
 import jakarta.persistence.*;
 

@@ -1,4 +1,4 @@
-package java.project.dio.model;
+package com.project.dio.model;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

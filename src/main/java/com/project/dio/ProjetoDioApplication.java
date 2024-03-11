@@ -1,4 +1,4 @@
-package java.project.dio;
+package com.project.dio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
